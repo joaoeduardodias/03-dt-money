@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 900,
       "createdAt": "2023-01-11T10:41:01.590Z"
+    },
+    {
+      "category": "venda",
+      "description": "Desenvolvimento de app",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2023-01-12T19:30:58.748Z",
+      "id": 4
+    },
+    {
+      "category": "Alimentação",
+      "description": "Pastel",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2023-01-12T19:42:12.741Z",
+      "id": 5
+    },
+    {
+      "category": "Alimentação",
+      "description": "Lanche",
+      "price": 30,
+      "type": "outcome",
+      "createdAt": "2023-01-12T19:43:28.861Z",
+      "id": 6
     }
   ]
 }

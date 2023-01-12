@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import * as Dialog from '@radix-ui/react-dialog'
 import logoImg from '../../assets/logo.svg'
 import { NewTransactionModal } from '../NewTransactionModal'
