@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-01-11T10:41:01.590Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 900,
+      "createdAt": "2023-01-11T10:41:01.590Z"
     }
   ]
 }
